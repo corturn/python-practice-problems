@@ -14,11 +14,8 @@ def sublists(lst):
     results = []
     for sub in sublsts:
         results.append([first] + sub)
-    print(sublsts + results)
     
     return sublsts + results
-
-sublists([1,5])
 
 
 #############################################################
